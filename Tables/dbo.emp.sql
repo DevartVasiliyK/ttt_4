@@ -7,7 +7,6 @@
   [SAL] [float] NULL,
   [COMM] [float] NULL,
   [DEPTNO] [int] NULL,
-  [column1] [varchar](50) NULL,
   [column2] [varchar](50) NULL,
   [column3] [varchar](50) NULL,
   PRIMARY KEY CLUSTERED ([EMPNO])
