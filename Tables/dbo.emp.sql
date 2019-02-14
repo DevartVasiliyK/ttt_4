@@ -10,7 +10,7 @@
   [column2] [varchar](50) NULL,
   [column3] [varchar](50) NULL,
   [column1] [varchar](50) NULL,
-  [column4] [varchar](50) NULL,
+  [column44] [varchar](50) NULL,
   PRIMARY KEY CLUSTERED ([EMPNO])
 )
 ON [PRIMARY]
