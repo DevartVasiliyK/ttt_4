@@ -7,7 +7,7 @@
   [SAL] [float] NULL,
   [COMM] [float] NULL,
   [DEPTNO] [int] NULL,
-  [column2] [varchar](50) NULL,
+  [column22] [varchar](50) NULL,
   [column3] [varchar](50) NULL,
   [column1] [varchar](50) NULL,
   [column44] [varchar](50) NULL,
